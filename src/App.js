@@ -7,7 +7,7 @@ function App() {
       <nav className="navbar navbar-light bg-dark">
         <h1 className="text-light">Quiz</h1>
       </nav>
-      <h1 className="text-center">Guess the country flag?</h1>
+      <h1 className="text-center">Guess The Country's Flag?</h1>
       <div className="p-5 m-5">
         <button type="button" className="btn btn-dark position-absolute m-5">Pakistan</button>
         <button type="button" className="btn btn-dark position-relative m-5">Indonesia</button>
